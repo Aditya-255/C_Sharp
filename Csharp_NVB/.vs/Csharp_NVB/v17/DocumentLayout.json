@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.NET FILE\\C# Project\\C# program\\Csharp_NVB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6011E5-0902-4992-860B-0E28CED7A2B5}|Csharp_NVB.csproj|e:\\.net file\\c# project\\c# program\\csharp_nvb\\p4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6011E5-0902-4992-860B-0E28CED7A2B5}|Csharp_NVB.csproj|solutionrelative:p4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6011E5-0902-4992-860B-0E28CED7A2B5}|Csharp_NVB.csproj|E:\\.NET FILE\\C# Project\\C# program\\Csharp_NVB\\p3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6011E5-0902-4992-860B-0E28CED7A2B5}|Csharp_NVB.csproj|solutionrelative:p3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6011E5-0902-4992-860B-0E28CED7A2B5}|Csharp_NVB.csproj|E:\\.NET FILE\\C# Project\\C# program\\Csharp_NVB\\p2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6011E5-0902-4992-860B-0E28CED7A2B5}|Csharp_NVB.csproj|solutionrelative:p2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6011E5-0902-4992-860B-0E28CED7A2B5}|Csharp_NVB.csproj|E:\\.NET FILE\\C# Project\\C# program\\Csharp_NVB\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6011E5-0902-4992-860B-0E28CED7A2B5}|Csharp_NVB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P4.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C# Project\\C# program\\Csharp_NVB\\P4.cs",
+              "RelativeDocumentMoniker": "P4.cs",
+              "ToolTip": "E:\\.NET FILE\\C# Project\\C# program\\Csharp_NVB\\P4.cs",
+              "RelativeToolTip": "P4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T05:54:59.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "P3.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C# Project\\C# program\\Csharp_NVB\\P3.cs",
+              "RelativeDocumentMoniker": "P3.cs",
+              "ToolTip": "E:\\.NET FILE\\C# Project\\C# program\\Csharp_NVB\\P3.cs",
+              "RelativeToolTip": "P3.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T05:38:28.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "P2.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C# Project\\C# program\\Csharp_NVB\\P2.cs",
+              "RelativeDocumentMoniker": "P2.cs",
+              "ToolTip": "E:\\.NET FILE\\C# Project\\C# program\\Csharp_NVB\\P2.cs",
+              "RelativeToolTip": "P2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T05:12:21.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C# Project\\C# program\\Csharp_NVB\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\.NET FILE\\C# Project\\C# program\\Csharp_NVB\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T04:47:16.68Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

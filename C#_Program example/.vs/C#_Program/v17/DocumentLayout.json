@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.NET FILE\\C# Project\\C# program\\C#_Program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6415A8A1-71A6-4684-AE6E-0AA1D4FD7102}|C#_Program.csproj|e:\\.net file\\c# project\\c# program\\c#_program\\overriding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6415A8A1-71A6-4684-AE6E-0AA1D4FD7102}|C#_Program.csproj|solutionrelative:overriding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6415A8A1-71A6-4684-AE6E-0AA1D4FD7102}|C#_Program.csproj|e:\\.net file\\c# project\\c# program\\c#_program\\override.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6415A8A1-71A6-4684-AE6E-0AA1D4FD7102}|C#_Program.csproj|solutionrelative:override.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6415A8A1-71A6-4684-AE6E-0AA1D4FD7102}|C#_Program.csproj|e:\\.net file\\c# project\\c# program\\c#_program\\program4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6415A8A1-71A6-4684-AE6E-0AA1D4FD7102}|C#_Program.csproj|solutionrelative:program4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6415A8A1-71A6-4684-AE6E-0AA1D4FD7102}|C#_Program.csproj|e:\\.net file\\c# project\\c# program\\c#_program\\program5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6415A8A1-71A6-4684-AE6E-0AA1D4FD7102}|C#_Program.csproj|solutionrelative:program5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6415A8A1-71A6-4684-AE6E-0AA1D4FD7102}|C#_Program.csproj|e:\\.net file\\c# project\\c# program\\c#_program\\implement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6415A8A1-71A6-4684-AE6E-0AA1D4FD7102}|C#_Program.csproj|solutionrelative:implement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6415A8A1-71A6-4684-AE6E-0AA1D4FD7102}|C#_Program.csproj|e:\\.net file\\c# project\\c# program\\c#_program\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6415A8A1-71A6-4684-AE6E-0AA1D4FD7102}|C#_Program.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6415A8A1-71A6-4684-AE6E-0AA1D4FD7102}|C#_Program.csproj|e:\\.net file\\c# project\\c# program\\c#_program\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6415A8A1-71A6-4684-AE6E-0AA1D4FD7102}|C#_Program.csproj|solutionrelative:bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6415A8A1-71A6-4684-AE6E-0AA1D4FD7102}|C#_Program.csproj|E:\\.NET FILE\\C# Project\\C# program\\C#_Program\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6415A8A1-71A6-4684-AE6E-0AA1D4FD7102}|C#_Program.csproj|solutionrelative:program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6415A8A1-71A6-4684-AE6E-0AA1D4FD7102}|C#_Program.csproj|E:\\.NET FILE\\C# Project\\C# program\\C#_Program\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6415A8A1-71A6-4684-AE6E-0AA1D4FD7102}|C#_Program.csproj|solutionrelative:program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6415A8A1-71A6-4684-AE6E-0AA1D4FD7102}|C#_Program.csproj|E:\\.NET FILE\\C# Project\\C# program\\C#_Program\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6415A8A1-71A6-4684-AE6E-0AA1D4FD7102}|C#_Program.csproj|solutionrelative:program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6415A8A1-71A6-4684-AE6E-0AA1D4FD7102}|C#_Program.csproj|E:\\.NET FILE\\C# Project\\C# program\\C#_Program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6415A8A1-71A6-4684-AE6E-0AA1D4FD7102}|C#_Program.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Overriding.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C# Project\\C# program\\C#_Program\\Overriding.cs",
+              "RelativeDocumentMoniker": "Overriding.cs",
+              "ToolTip": "E:\\.NET FILE\\C# Project\\C# program\\C#_Program\\Overriding.cs",
+              "RelativeToolTip": "Overriding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T14:13:53.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Override.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C# Project\\C# program\\C#_Program\\Override.cs",
+              "RelativeDocumentMoniker": "Override.cs",
+              "ToolTip": "E:\\.NET FILE\\C# Project\\C# program\\C#_Program\\Override.cs",
+              "RelativeToolTip": "Override.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T14:12:18.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "implement.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C# Project\\C# program\\C#_Program\\implement.cs",
+              "RelativeDocumentMoniker": "implement.cs",
+              "ToolTip": "E:\\.NET FILE\\C# Project\\C# program\\C#_Program\\implement.cs",
+              "RelativeToolTip": "implement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T13:01:37.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program4.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C# Project\\C# program\\C#_Program\\Program4.cs",
+              "RelativeDocumentMoniker": "Program4.cs",
+              "ToolTip": "E:\\.NET FILE\\C# Project\\C# program\\C#_Program\\Program4.cs",
+              "RelativeToolTip": "Program4.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:21:01.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "customer.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C# Project\\C# program\\C#_Program\\customer.cs",
+              "RelativeDocumentMoniker": "customer.cs",
+              "ToolTip": "E:\\.NET FILE\\C# Project\\C# program\\C#_Program\\customer.cs",
+              "RelativeToolTip": "customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T13:00:43.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C# Project\\C# program\\C#_Program\\Bank.cs",
+              "RelativeDocumentMoniker": "Bank.cs",
+              "ToolTip": "E:\\.NET FILE\\C# Project\\C# program\\C#_Program\\Bank.cs",
+              "RelativeToolTip": "Bank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:53:24.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program5.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C# Project\\C# program\\C#_Program\\Program5.cs",
+              "RelativeDocumentMoniker": "Program5.cs",
+              "ToolTip": "E:\\.NET FILE\\C# Project\\C# program\\C#_Program\\Program5.cs",
+              "RelativeToolTip": "Program5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:28:08.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program3.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C# Project\\C# program\\C#_Program\\Program3.cs",
+              "RelativeDocumentMoniker": "Program3.cs",
+              "ToolTip": "E:\\.NET FILE\\C# Project\\C# program\\C#_Program\\Program3.cs",
+              "RelativeToolTip": "Program3.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T11:49:25.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program2.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C# Project\\C# program\\C#_Program\\Program2.cs",
+              "RelativeDocumentMoniker": "Program2.cs",
+              "ToolTip": "E:\\.NET FILE\\C# Project\\C# program\\C#_Program\\Program2.cs",
+              "RelativeToolTip": "Program2.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T11:29:22.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program1.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C# Project\\C# program\\C#_Program\\Program1.cs",
+              "RelativeDocumentMoniker": "Program1.cs",
+              "ToolTip": "E:\\.NET FILE\\C# Project\\C# program\\C#_Program\\Program1.cs",
+              "RelativeToolTip": "Program1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:53:24.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C# Project\\C# program\\C#_Program\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\.NET FILE\\C# Project\\C# program\\C#_Program\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:29:19.081Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
