@@ -7,10 +7,10 @@ namespace Aditya_Dodiya_23SOECE11014
     {
         public static void Main(string[] args)
         {
-            int n = 8;
+            int n = 5;
             for(int i=1;i<=n; i++)
             {
-                Console.Write(new string(' ', (n/2) - i)); 
+                Console.Write(new string(' ', n-i)); 
                 for(int j = 1; j <= i; j++)
                 {
                     Console.Write("*");
@@ -20,10 +20,19 @@ namespace Aditya_Dodiya_23SOECE11014
                     }
                 }
                 Console.WriteLine();
-                if (i > 4)
+            }
+            for(int i = n - 1; i >= 1; i--)
+            {
+                Console.Write(new string(' ', n - i));
+                for(int j = 1; j <= i; j++)
                 {
-                    Console.Write(new string('*', (n / 2) - i));
+                    Console.Write("*");
+                    if(j < i)
+                    {
+                        Console.Write("*");
+                    }
                 }
+                Console.WriteLine();
             }
         }
     }
