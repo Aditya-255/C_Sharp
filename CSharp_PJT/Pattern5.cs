@@ -19,19 +19,35 @@ namespace CSharp_PJT
     {
         public static void Main(string[] args)
         {
-            for(int i = 1; i <= 5; i++)
+            ////uisng 2 loops
+            //for (int i = 1; i <= 5; i++)
+            //{
+            //    for (int j = 1; j <= i; j++)
+            //    {
+            //        Console.Write("*");
+            //    }
+            //    Console.WriteLine();
+            //}
+            //for (int i = 4; i >= 1; i--)
+            //{
+            //    for (int j = 1; j <= i; j++)
+            //    {
+            //        Console.Write("*");
+            //    }
+            //    Console.WriteLine();
+            //}
+            //using single loop
+            for (int i = 1; i <= 9; i++)
             {
-                for(int j = 1; j <= i; j++)
+                int k =1;
+                for(int j = 1; j <= k; j++)
                 {
                     Console.Write("*");
-                }
-                Console.WriteLine();
-            }
-            for(int i = 5 - 1; i >= 1; i--)
-            {
-                for(int j = 1; j <= i; j++)
-                {
-                    Console.Write("*");
+                    k++;
+                    if (k > 5)
+                    {
+                        k--;
+                    }
                 }
                 Console.WriteLine();
             }
