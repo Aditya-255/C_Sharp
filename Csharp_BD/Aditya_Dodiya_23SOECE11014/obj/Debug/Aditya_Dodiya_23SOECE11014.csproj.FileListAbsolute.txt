@@ -1,0 +1,2 @@
+E:\.NET FILE\Aditya_Dodiya_23SOECE11014\obj\Debug\Aditya_Dodiya_23SOECE11014.csproj.AssemblyReference.cache
+E:\.NET FILE\Aditya_Dodiya_23SOECE11014\obj\Debug\Aditya_Dodiya_23SOECE11014.csproj.CoreCompileInputs.cache
