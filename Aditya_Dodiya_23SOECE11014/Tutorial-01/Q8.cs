@@ -1,6 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Aditya_Dodiya_23SOECE11014
+namespace Aditya_Dodiya_23SOECE11014.Tutorial_01
 {
     internal class Q8
     {
@@ -11,5 +15,6 @@ namespace Aditya_Dodiya_23SOECE11014
             name = name.ToUpper();
             Console.WriteLine(name);
         }
+
     }
 }

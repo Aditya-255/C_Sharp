@@ -1,33 +1,36 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-
-namespace Aditya_Dodiya_23SOECE11014
+namespace Aditya_Dodiya_23SOECE11014.Tutorial_01
 {
-    class Q22
+    internal class Q22
     {
         public static void Main(string[] args)
         {
             int n = 5;
-            for(int i=1;i<=n; i++)
+            for (int i = 1; i <= n; i++)
             {
-                Console.Write(new string(' ', n-i)); 
-                for(int j = 1; j <= i; j++)
+                Console.Write(new string(' ', n - i));
+                for (int j = 1; j <= i; j++)
                 {
                     Console.Write("*");
-                    if(j < i)
+                    if (j < i)
                     {
-                        Console.Write("*"); 
+                        Console.Write("*");
                     }
                 }
                 Console.WriteLine();
             }
-            for(int i = n - 1; i >= 1; i--)
+            for (int i = n - 1; i >= 1; i--)
             {
                 Console.Write(new string(' ', n - i));
-                for(int j = 1; j <= i; j++)
+                for (int j = 1; j <= i; j++)
                 {
                     Console.Write("*");
-                    if(j < i)
+                    if (j < i)
                     {
                         Console.Write("*");
                     }
@@ -35,5 +38,6 @@ namespace Aditya_Dodiya_23SOECE11014
                 Console.WriteLine();
             }
         }
+
     }
 }

@@ -1,23 +1,31 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-
-namespace Aditya_Dodiya_23SOECE11014
+namespace Aditya_Dodiya_23SOECE11014.Tutorial_01
 {
-    class Q7
+    internal class Q7
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
-            int num1,res,i;
-            Console.WriteLine("Enter a number:");
+            int num1, res, i;
+
+            Console.WriteLine("Enter a number");
             num1 = Convert.ToInt32(Console.ReadLine());
-            i = 1;
+
+            i = 1; //Initialization
+
+            //Check whether condition matches or not
             while (i <= 10)
             {
                 res = num1 * i;
-                Console.WriteLine("{0} * {1} = {2}", num1, i, res);
-                i++;
+                Console.WriteLine("{0} x {1} = {2}", num1, i, res);
+                i++; //Increment by one
             }
-            Console.Read();
+            Console.ReadLine();
         }
+
     }
 }

@@ -1,6 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Aditya_Dodiya_23SOECE11014
+namespace Aditya_Dodiya_23SOECE11014.Tutorial_01
 {
     internal class Q9
     {
@@ -14,18 +18,19 @@ namespace Aditya_Dodiya_23SOECE11014
         static string Togglecase(string input)
         {
             char[] arr = input.ToCharArray();
-            for(int i = 0; i < arr.Length; i++)
+            for (int i = 0; i < arr.Length; i++)
             {
-                if(char.IsUpper(arr[i]))
+                if (char.IsUpper(arr[i]))
                 {
                     arr[i] = char.ToLower(arr[i]);
                 }
-                else if(char.IsLower(arr[i]))
+                else if (char.IsLower(arr[i]))
                 {
                     arr[i] = char.ToUpper(arr[i]);
                 }
             }
             return new string(arr);
         }
+
     }
 }

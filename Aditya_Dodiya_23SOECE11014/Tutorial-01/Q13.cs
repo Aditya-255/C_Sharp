@@ -1,7 +1,12 @@
 ﻿using System;
-namespace Aditya_Dodiya_23SOECE11014
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Aditya_Dodiya_23SOECE11014.Tutorial_01
 {
-    class Q13
+    internal class Q13
     {
         public static void Main(string[] args)
         {
@@ -9,21 +14,22 @@ namespace Aditya_Dodiya_23SOECE11014
             int n = Convert.ToInt32(Console.ReadLine());
             Console.Write("Fibonacci series: ");
             int a = 0, b = 1, c;
-            if (n >= 1)
+            if (a < 1)
             {
                 Console.Write(a + " ");
             }
-            if (n >= 2)
+            if (a <= 2)
             {
                 Console.Write(b + " ");
             }
-            for(int i = 3; i <= n; i++)
+            for (int i = 3; i <= n; i++)
             {
-                c= a + b;
+                c = a + b;
                 Console.Write(c + " ");
                 a = b;
                 b = c;
             }
+
         }
     }
 }

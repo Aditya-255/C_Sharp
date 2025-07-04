@@ -1,7 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-
-namespace Aditya_Dodiya_23SOECE11014
+namespace Aditya_Dodiya_23SOECE11014.Tutorial_01
 {
     internal class Q6
     {
@@ -13,7 +16,7 @@ namespace Aditya_Dodiya_23SOECE11014
             a = Convert.ToInt32(str);
 
             Console.Write("Enter Number  2 : ");
-            str= Console.ReadLine();
+            str = Console.ReadLine();
             b = Convert.ToInt32(str);
 
             Console.Write("Enter Number   3 : ");
@@ -30,7 +33,7 @@ namespace Aditya_Dodiya_23SOECE11014
             int res;
             res = x + y + z;
             return res;
-     
         }
+        
     }
 }

@@ -1,5 +1,10 @@
 ﻿using System;
-namespace Aditya_Dodiya_23SOECE11014
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Aditya_Dodiya_23SOECE11014.Tutorial_01
 {
     internal class Q10
     {
@@ -10,5 +15,6 @@ namespace Aditya_Dodiya_23SOECE11014
             string marked = input.Substring(0, input.Length - 5) + new string('X', 5);
             Console.WriteLine("Masked Number: " + marked);
         }
+
     }
 }

@@ -1,16 +1,19 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-
-namespace Aditya_Dodiya_23SOECE11014
+namespace Aditya_Dodiya_23SOECE11014.Tutorial_01
 {
-    class Q4
+    internal class Q4
     {
         public static void Main(string[] args)
         {
             int x;
             Console.WriteLine("Enter a number:");
             string str = Console.ReadLine();
-            x=Convert.ToInt32(str);
+            x = Convert.ToInt32(str);
 
             if (x % 2 == 0)
             {
@@ -22,5 +25,6 @@ namespace Aditya_Dodiya_23SOECE11014
             }
             Console.Read();
         }
+
     }
 }
