@@ -1,0 +1,8 @@
+E:\.NET FILE\C_sharp\Csharp_BD\CSharp_BD Program\bin\Debug\CSharp_BD.exe.config
+E:\.NET FILE\C_sharp\Csharp_BD\CSharp_BD Program\bin\Debug\CSharp_BD.exe
+E:\.NET FILE\C_sharp\Csharp_BD\CSharp_BD Program\bin\Debug\CSharp_BD.pdb
+E:\.NET FILE\C_sharp\Csharp_BD\CSharp_BD Program\obj\Debug\CSharp_BD.csproj.AssemblyReference.cache
+E:\.NET FILE\C_sharp\Csharp_BD\CSharp_BD Program\obj\Debug\CSharp_BD.csproj.CoreCompileInputs.cache
+E:\.NET FILE\C_sharp\Csharp_BD\CSharp_BD Program\obj\Debug\CSharp_BD.exe
+E:\.NET FILE\C_sharp\Csharp_BD\CSharp_BD Program\obj\Debug\CSharp_BD.pdb
+E:\.NET FILE\C_sharp\Csharp_BD\CSharp_BD Program\obj\Debug\CSharp_BD.exe.config
