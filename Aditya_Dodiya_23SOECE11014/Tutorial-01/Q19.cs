@@ -19,10 +19,10 @@ namespace Aditya_Dodiya_23SOECE11014.Tutorial_01
                     Console.Write("*");
                     if (j < i)
                     {
-                        Console.Write(" ");  // space between stars
+                        Console.Write(" ");  
                     }
                 }
-                Console.WriteLine(); // Move to the next line after each row
+                Console.WriteLine(); 
             }
         }
 
