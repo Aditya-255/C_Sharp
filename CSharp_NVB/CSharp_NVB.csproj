@@ -43,10 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="add_of_2_arr.cs" />
+    <Compile Include="array_ex.cs" />
+    <Compile Include="Array.cs" />
+    <Compile Include="Command_line.cs" />
     <Compile Include="For_While_Loop.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="jagged_arr.cs" />
+    <Compile Include="max_ele_in_array.cs" />
+    <Compile Include="Sorted_array.cs" />
+    <Compile Include="two_dim_arr.cs" />
+    <Compile Include="variable_and_simple_cs.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="String methods.cs" />
+    <Compile Include="String_methods.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

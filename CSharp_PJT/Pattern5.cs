@@ -21,7 +21,7 @@ namespace CSharp_PJT
         {
             ////uisng 2 loops
             //for (int i = 1; i <= 5; i++)
-            //{
+            //{5
             //    for (int j = 1; j <= i; j++)
             //    {
             //        Console.Write("*");
@@ -37,20 +37,16 @@ namespace CSharp_PJT
             //    Console.WriteLine();
             //}
             //using single loop
-            for (int i = 1; i <= 9; i++)
+            for(int i = 1; i <= 9; i++)
             {
-                int k =1;
-                for(int j = 1; j <= k; j++)
+                int k = i <= 5 ? i : 10 - i;
+                for (int j = 1; j <= k; j++)
                 {
-                    Console.Write("*");
-                    k++;
-                    if (k > 5)
-                    {
-                        k--;
-                    }
+                    Console.WriteLine("*");
                 }
                 Console.WriteLine();
             }
+            
         }
     }
 }

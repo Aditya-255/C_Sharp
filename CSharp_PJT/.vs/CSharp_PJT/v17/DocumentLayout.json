@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "E:\\.NET FILE\\C_sharp\\CSharp_PJT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5866EFB1-17DF-4034-812E-0DCF202291F2}|CSharp_PJT.csproj|e:\\.net file\\c_sharp\\csharp_pjt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5866EFB1-17DF-4034-812E-0DCF202291F2}|CSharp_PJT.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5866EFB1-17DF-4034-812E-0DCF202291F2}|CSharp_PJT.csproj|e:\\.net file\\c_sharp\\csharp_pjt\\tutorial_ex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5866EFB1-17DF-4034-812E-0DCF202291F2}|CSharp_PJT.csproj|solutionrelative:tutorial_ex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5866EFB1-17DF-4034-812E-0DCF202291F2}|CSharp_PJT.csproj|e:\\.net file\\c_sharp\\csharp_pjt\\inc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5866EFB1-17DF-4034-812E-0DCF202291F2}|CSharp_PJT.csproj|solutionrelative:inc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5866EFB1-17DF-4034-812E-0DCF202291F2}|CSharp_PJT.csproj|e:\\.net file\\c_sharp\\csharp_pjt\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5866EFB1-17DF-4034-812E-0DCF202291F2}|CSharp_PJT.csproj|solutionrelative:table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5866EFB1-17DF-4034-812E-0DCF202291F2}|CSharp_PJT.csproj|E:\\.NET FILE\\C_sharp\\CSharp_PJT\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5866EFB1-17DF-4034-812E-0DCF202291F2}|CSharp_PJT.csproj|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5866EFB1-17DF-4034-812E-0DCF202291F2}|CSharp_PJT.csproj|e:\\.net file\\c_sharp\\csharp_pjt\\p6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5866EFB1-17DF-4034-812E-0DCF202291F2}|CSharp_PJT.csproj|solutionrelative:p6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5866EFB1-17DF-4034-812E-0DCF202291F2}|CSharp_PJT.csproj|e:\\.net file\\c_sharp\\csharp_pjt\\p5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5866EFB1-17DF-4034-812E-0DCF202291F2}|CSharp_PJT.csproj|solutionrelative:p5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5866EFB1-17DF-4034-812E-0DCF202291F2}|CSharp_PJT.csproj|e:\\.net file\\c_sharp\\csharp_pjt\\p4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5866EFB1-17DF-4034-812E-0DCF202291F2}|CSharp_PJT.csproj|solutionrelative:p4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5866EFB1-17DF-4034-812E-0DCF202291F2}|CSharp_PJT.csproj|e:\\.net file\\c_sharp\\csharp_pjt\\p3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5866EFB1-17DF-4034-812E-0DCF202291F2}|CSharp_PJT.csproj|solutionrelative:p3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5866EFB1-17DF-4034-812E-0DCF202291F2}|CSharp_PJT.csproj|e:\\.net file\\c_sharp\\csharp_pjt\\p2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5866EFB1-17DF-4034-812E-0DCF202291F2}|CSharp_PJT.csproj|solutionrelative:p2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5866EFB1-17DF-4034-812E-0DCF202291F2}|CSharp_PJT.csproj|e:\\.net file\\c_sharp\\csharp_pjt\\p1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5866EFB1-17DF-4034-812E-0DCF202291F2}|CSharp_PJT.csproj|solutionrelative:p1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,12 +50,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -27,12 +59,129 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Tutorial_ex.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\CSharp_PJT\\Tutorial_ex.cs",
+              "RelativeDocumentMoniker": "Tutorial_ex.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\CSharp_PJT\\Tutorial_ex.cs",
+              "RelativeToolTip": "Tutorial_ex.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T05:52:23.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "inc.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\CSharp_PJT\\inc.cs",
+              "RelativeDocumentMoniker": "inc.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\CSharp_PJT\\inc.cs",
+              "RelativeToolTip": "inc.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T05:08:54.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "P6.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\CSharp_PJT\\P6.cs",
+              "RelativeDocumentMoniker": "P6.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\CSharp_PJT\\P6.cs",
+              "RelativeToolTip": "P6.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T05:02:15.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "P5.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\CSharp_PJT\\P5.cs",
+              "RelativeDocumentMoniker": "P5.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\CSharp_PJT\\P5.cs",
+              "RelativeToolTip": "P5.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T05:01:43.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "P4.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\CSharp_PJT\\P4.cs",
+              "RelativeDocumentMoniker": "P4.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\CSharp_PJT\\P4.cs",
+              "RelativeToolTip": "P4.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T05:01:13.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "P3.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\CSharp_PJT\\P3.cs",
+              "RelativeDocumentMoniker": "P3.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\CSharp_PJT\\P3.cs",
+              "RelativeToolTip": "P3.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T05:00:41.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "P2.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\CSharp_PJT\\P2.cs",
+              "RelativeDocumentMoniker": "P2.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\CSharp_PJT\\P2.cs",
+              "RelativeToolTip": "P2.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T05:00:03.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "P1.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\CSharp_PJT\\P1.cs",
+              "RelativeDocumentMoniker": "P1.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\CSharp_PJT\\P1.cs",
+              "RelativeToolTip": "P1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T04:59:12.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Table.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\CSharp_PJT\\Table.cs",
+              "RelativeDocumentMoniker": "Table.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\CSharp_PJT\\Table.cs",
+              "RelativeToolTip": "Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T04:50:18.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\CSharp_PJT\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\.NET FILE\\C_sharp\\CSharp_PJT\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T04:37:42.533Z",
               "EditorCaption": ""
