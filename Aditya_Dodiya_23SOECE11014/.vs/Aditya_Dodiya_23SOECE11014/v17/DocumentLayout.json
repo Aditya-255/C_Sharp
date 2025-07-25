@@ -1,0 +1,582 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|e:\\.net file\\c_sharp\\aditya_dodiya_23soece11014\\tutorial-02\\q10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|solutionrelative:tutorial-02\\q10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|e:\\.net file\\c_sharp\\aditya_dodiya_23soece11014\\tutorial-02\\q9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|solutionrelative:tutorial-02\\q9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|e:\\.net file\\c_sharp\\aditya_dodiya_23soece11014\\tutorial-02\\q8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|solutionrelative:tutorial-02\\q8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|e:\\.net file\\c_sharp\\aditya_dodiya_23soece11014\\tutorial-02\\q7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|solutionrelative:tutorial-02\\q7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\tutorial-02\\q6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|solutionrelative:tutorial-02\\q6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\tutorial-02\\q5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|solutionrelative:tutorial-02\\q5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.NET FILE\\C_sharp\\CSharp_NVB\\max_ele_in_array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\tutorial-02\\q4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|solutionrelative:tutorial-02\\q4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\tutorial-02\\q3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|solutionrelative:tutorial-02\\q3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\tutorial-02\\q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|solutionrelative:tutorial-02\\q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\tutorial-02\\q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|solutionrelative:tutorial-02\\q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\tutorial-01\\q21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|solutionrelative:tutorial-01\\q21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\tutorial-01\\q15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|solutionrelative:tutorial-01\\q15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\tutorial-01\\q14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|solutionrelative:tutorial-01\\q14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\tutorial-01\\q22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|solutionrelative:tutorial-01\\q22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\tutorial-01\\q20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|solutionrelative:tutorial-01\\q20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\tutorial-01\\q19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|solutionrelative:tutorial-01\\q19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\tutorial-01\\q18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|solutionrelative:tutorial-01\\q18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\tutorial-01\\q17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|solutionrelative:tutorial-01\\q17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\tutorial-01\\q16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|solutionrelative:tutorial-01\\q16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\tutorial-01\\q13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|solutionrelative:tutorial-01\\q13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\tutorial-01\\q12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|solutionrelative:tutorial-01\\q12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\tutorial-01\\q9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|solutionrelative:tutorial-01\\q9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\tutorial-01\\q8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|solutionrelative:tutorial-01\\q8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\tutorial-01\\q7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|solutionrelative:tutorial-01\\q7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\tutorial-01\\q6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|solutionrelative:tutorial-01\\q6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\tutorial-01\\q5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|solutionrelative:tutorial-01\\q5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\tutorial-01\\q4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|solutionrelative:tutorial-01\\q4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\tutorial-01\\q3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|solutionrelative:tutorial-01\\q3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\tutorial-01\\q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|solutionrelative:tutorial-01\\q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\tutorial-01\\q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B33733-7433-47AE-A003-FC5F01EFFB40}|Aditya_Dodiya_23SOECE11014.csproj|solutionrelative:tutorial-01\\q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.NET FILE\\C_sharp\\Csharp_BD\\Aditya_Dodiya_23SOECE11014\\Q3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.NET FILE\\C_sharp\\Csharp_BD\\Aditya_Dodiya_23SOECE11014\\Q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.NET FILE\\C_sharp\\Csharp_BD\\Aditya_Dodiya_23SOECE11014\\Q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.NET FILE\\C_sharp\\Csharp_BD\\Aditya_Dodiya_23SOECE11014\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Q10.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-02\\Q10.cs",
+              "RelativeDocumentMoniker": "Tutorial-02\\Q10.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-02\\Q10.cs",
+              "RelativeToolTip": "Tutorial-02\\Q10.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T12:08:32.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Q9.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-02\\Q9.cs",
+              "RelativeDocumentMoniker": "Tutorial-02\\Q9.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-02\\Q9.cs",
+              "RelativeToolTip": "Tutorial-02\\Q9.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T11:58:41.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Q8.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-02\\Q8.cs",
+              "RelativeDocumentMoniker": "Tutorial-02\\Q8.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-02\\Q8.cs",
+              "RelativeToolTip": "Tutorial-02\\Q8.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T11:25:59.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Q7.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-02\\Q7.cs",
+              "RelativeDocumentMoniker": "Tutorial-02\\Q7.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-02\\Q7.cs",
+              "RelativeToolTip": "Tutorial-02\\Q7.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwCYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T06:25:45.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Q6.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-02\\Q6.cs",
+              "RelativeDocumentMoniker": "Tutorial-02\\Q6.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-02\\Q6.cs",
+              "RelativeToolTip": "Tutorial-02\\Q6.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T06:16:36.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "max_ele_in_array.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\CSharp_NVB\\max_ele_in_array.cs",
+              "RelativeDocumentMoniker": "..\\CSharp_NVB\\max_ele_in_array.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\CSharp_NVB\\max_ele_in_array.cs",
+              "RelativeToolTip": "..\\CSharp_NVB\\max_ele_in_array.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T06:10:58.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Q5.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-02\\Q5.cs",
+              "RelativeDocumentMoniker": "Tutorial-02\\Q5.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-02\\Q5.cs",
+              "RelativeToolTip": "Tutorial-02\\Q5.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T05:59:42.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Q4.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-02\\Q4.cs",
+              "RelativeDocumentMoniker": "Tutorial-02\\Q4.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-02\\Q4.cs",
+              "RelativeToolTip": "Tutorial-02\\Q4.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T05:54:13.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Q3.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-02\\Q3.cs",
+              "RelativeDocumentMoniker": "Tutorial-02\\Q3.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-02\\Q3.cs",
+              "RelativeToolTip": "Tutorial-02\\Q3.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T05:50:28.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Q2.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-02\\Q2.cs",
+              "RelativeDocumentMoniker": "Tutorial-02\\Q2.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-02\\Q2.cs",
+              "RelativeToolTip": "Tutorial-02\\Q2.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T05:41:09.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Q1.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-02\\Q1.cs",
+              "RelativeDocumentMoniker": "Tutorial-02\\Q1.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-02\\Q1.cs",
+              "RelativeToolTip": "Tutorial-02\\Q1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T05:32:51.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Q22.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q22.cs",
+              "RelativeDocumentMoniker": "Tutorial-01\\Q22.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q22.cs",
+              "RelativeToolTip": "Tutorial-01\\Q22.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwCEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T11:19:11.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Q20.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q20.cs",
+              "RelativeDocumentMoniker": "Tutorial-01\\Q20.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q20.cs",
+              "RelativeToolTip": "Tutorial-01\\Q20.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvyAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T11:17:31.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Q19.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q19.cs",
+              "RelativeDocumentMoniker": "Tutorial-01\\Q19.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q19.cs",
+              "RelativeToolTip": "Tutorial-01\\Q19.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvx4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T11:16:14.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Q14.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q14.cs",
+              "RelativeDocumentMoniker": "Tutorial-01\\Q14.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q14.cs",
+              "RelativeToolTip": "Tutorial-01\\Q14.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T11:12:17.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Q21.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q21.cs",
+              "RelativeDocumentMoniker": "Tutorial-01\\Q21.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q21.cs",
+              "RelativeToolTip": "Tutorial-01\\Q21.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T11:19:07.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Q18.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q18.cs",
+              "RelativeDocumentMoniker": "Tutorial-01\\Q18.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q18.cs",
+              "RelativeToolTip": "Tutorial-01\\Q18.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T11:15:09.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Q17.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q17.cs",
+              "RelativeDocumentMoniker": "Tutorial-01\\Q17.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q17.cs",
+              "RelativeToolTip": "Tutorial-01\\Q17.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T11:14:16.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Q16.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q16.cs",
+              "RelativeDocumentMoniker": "Tutorial-01\\Q16.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q16.cs",
+              "RelativeToolTip": "Tutorial-01\\Q16.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T11:12:45.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Q15.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q15.cs",
+              "RelativeDocumentMoniker": "Tutorial-01\\Q15.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q15.cs",
+              "RelativeToolTip": "Tutorial-01\\Q15.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T11:12:32.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Q13.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q13.cs",
+              "RelativeDocumentMoniker": "Tutorial-01\\Q13.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q13.cs",
+              "RelativeToolTip": "Tutorial-01\\Q13.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T11:10:34.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Q12.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q12.cs",
+              "RelativeDocumentMoniker": "Tutorial-01\\Q12.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q12.cs",
+              "RelativeToolTip": "Tutorial-01\\Q12.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T10:59:05.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Q9.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q9.cs",
+              "RelativeDocumentMoniker": "Tutorial-01\\Q9.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q9.cs",
+              "RelativeToolTip": "Tutorial-01\\Q9.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T10:56:00.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Q8.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q8.cs",
+              "RelativeDocumentMoniker": "Tutorial-01\\Q8.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q8.cs",
+              "RelativeToolTip": "Tutorial-01\\Q8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T10:54:26.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Q7.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q7.cs",
+              "RelativeDocumentMoniker": "Tutorial-01\\Q7.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q7.cs",
+              "RelativeToolTip": "Tutorial-01\\Q7.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvx8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T10:53:16.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Q6.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q6.cs",
+              "RelativeDocumentMoniker": "Tutorial-01\\Q6.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q6.cs",
+              "RelativeToolTip": "Tutorial-01\\Q6.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T10:49:30.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Q5.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q5.cs",
+              "RelativeDocumentMoniker": "Tutorial-01\\Q5.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q5.cs",
+              "RelativeToolTip": "Tutorial-01\\Q5.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T10:47:29.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Q4.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q4.cs",
+              "RelativeDocumentMoniker": "Tutorial-01\\Q4.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q4.cs",
+              "RelativeToolTip": "Tutorial-01\\Q4.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvx4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T10:45:40.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Q3.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q3.cs",
+              "RelativeDocumentMoniker": "Tutorial-01\\Q3.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q3.cs",
+              "RelativeToolTip": "Tutorial-01\\Q3.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T10:42:32.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Q2.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q2.cs",
+              "RelativeDocumentMoniker": "Tutorial-01\\Q2.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q2.cs",
+              "RelativeToolTip": "Tutorial-01\\Q2.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T08:29:21.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Q1.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q1.cs",
+              "RelativeDocumentMoniker": "Tutorial-01\\Q1.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Aditya_Dodiya_23SOECE11014\\Tutorial-01\\Q1.cs",
+              "RelativeToolTip": "Tutorial-01\\Q1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T08:26:32.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Q3.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Csharp_BD\\Aditya_Dodiya_23SOECE11014\\Q3.cs",
+              "RelativeDocumentMoniker": "..\\Csharp_BD\\Aditya_Dodiya_23SOECE11014\\Q3.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Csharp_BD\\Aditya_Dodiya_23SOECE11014\\Q3.cs",
+              "RelativeToolTip": "..\\Csharp_BD\\Aditya_Dodiya_23SOECE11014\\Q3.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T07:28:24.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Q2.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Csharp_BD\\Aditya_Dodiya_23SOECE11014\\Q2.cs",
+              "RelativeDocumentMoniker": "..\\Csharp_BD\\Aditya_Dodiya_23SOECE11014\\Q2.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Csharp_BD\\Aditya_Dodiya_23SOECE11014\\Q2.cs",
+              "RelativeToolTip": "..\\Csharp_BD\\Aditya_Dodiya_23SOECE11014\\Q2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T05:46:43.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Q1.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Csharp_BD\\Aditya_Dodiya_23SOECE11014\\Q1.cs",
+              "RelativeDocumentMoniker": "..\\Csharp_BD\\Aditya_Dodiya_23SOECE11014\\Q1.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Csharp_BD\\Aditya_Dodiya_23SOECE11014\\Q1.cs",
+              "RelativeToolTip": "..\\Csharp_BD\\Aditya_Dodiya_23SOECE11014\\Q1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T05:45:39.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Csharp_BD\\Aditya_Dodiya_23SOECE11014\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Csharp_BD\\Aditya_Dodiya_23SOECE11014\\Program.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Csharp_BD\\Aditya_Dodiya_23SOECE11014\\Program.cs",
+              "RelativeToolTip": "..\\Csharp_BD\\Aditya_Dodiya_23SOECE11014\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T05:44:56.537Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

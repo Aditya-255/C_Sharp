@@ -1,0 +1,11 @@
+E:\.NET FILE\C_sharp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+E:\.NET FILE\C_sharp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Label.resources
+E:\.NET FILE\C_sharp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+E:\.NET FILE\C_sharp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+E:\.NET FILE\C_sharp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+E:\.NET FILE\C_sharp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+E:\.NET FILE\C_sharp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+E:\.NET FILE\C_sharp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+E:\.NET FILE\C_sharp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+E:\.NET FILE\C_sharp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+E:\.NET FILE\C_sharp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe.config

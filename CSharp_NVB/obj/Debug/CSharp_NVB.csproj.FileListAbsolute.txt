@@ -1,0 +1,2 @@
+E:\.NET FILE\C_sharp\CSharp_NVB\obj\Debug\CSharp_NVB.csproj.AssemblyReference.cache
+E:\.NET FILE\C_sharp\CSharp_NVB\obj\Debug\CSharp_NVB.csproj.CoreCompileInputs.cache
