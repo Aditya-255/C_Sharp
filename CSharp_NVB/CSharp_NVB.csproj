@@ -50,6 +50,7 @@
     <Compile Include="For_While_Loop.cs" />
     <Compile Include="jagged_arr.cs" />
     <Compile Include="max_ele_in_array.cs" />
+    <Compile Include="Oop.cs" />
     <Compile Include="Sorted_array.cs" />
     <Compile Include="two_dim_arr.cs" />
     <Compile Include="variable_and_simple_cs.cs" />
