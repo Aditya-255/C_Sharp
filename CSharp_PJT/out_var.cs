@@ -8,6 +8,11 @@ namespace CSharp_PJT
 {
     internal class out_var
     {
+        /// <summary>
+        /// this is for out variable class
+        /// </summary>
+        /// <param name="a"></param>
+        /// <param name="b"></param>
         static void change(out int a,out int b)
         {
             a = 100;

@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7800F90B-26DC-404A-BD6A-8970FD8C745F}|WindowsFormsApp.csproj|e:\\.net file\\c_sharp\\windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7800F90B-26DC-404A-BD6A-8970FD8C745F}|WindowsFormsApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7800F90B-26DC-404A-BD6A-8970FD8C745F}|WindowsFormsApp.csproj|E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\calc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7800F90B-26DC-404A-BD6A-8970FD8C745F}|WindowsFormsApp.csproj|solutionrelative:calc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7800F90B-26DC-404A-BD6A-8970FD8C745F}|WindowsFormsApp.csproj|e:\\.net file\\c_sharp\\windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7800F90B-26DC-404A-BD6A-8970FD8C745F}|WindowsFormsApp.csproj|e:\\.net file\\c_sharp\\windowsformsapp\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7800F90B-26DC-404A-BD6A-8970FD8C745F}|WindowsFormsApp.csproj|solutionrelative:calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7800F90B-26DC-404A-BD6A-8970FD8C745F}|WindowsFormsApp.csproj|E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7800F90B-26DC-404A-BD6A-8970FD8C745F}|WindowsFormsApp.csproj|solutionrelative:calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7800F90B-26DC-404A-BD6A-8970FD8C745F}|WindowsFormsApp.csproj|E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7800F90B-26DC-404A-BD6A-8970FD8C745F}|WindowsFormsApp.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7800F90B-26DC-404A-BD6A-8970FD8C745F}|WindowsFormsApp.csproj|E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7800F90B-26DC-404A-BD6A-8970FD8C745F}|WindowsFormsApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7800F90B-26DC-404A-BD6A-8970FD8C745F}|WindowsFormsApp.csproj|e:\\.net file\\c_sharp\\windowsformsapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7800F90B-26DC-404A-BD6A-8970FD8C745F}|WindowsFormsApp.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7800F90B-26DC-404A-BD6A-8970FD8C745F}|WindowsFormsApp.csproj|E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7800F90B-26DC-404A-BD6A-8970FD8C745F}|WindowsFormsApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,40 +43,74 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAYwDkAAAAAAAAAAAAAAA==",
+              "Title": "Calc.Designer.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\Calc.Designer.cs",
+              "RelativeDocumentMoniker": "Calc.Designer.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\Calc.Designer.cs",
+              "RelativeToolTip": "Calc.Designer.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFoAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T07:48:40.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\Form1.Designer.cs",
-              "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAkwFwAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T07:55:51.928Z",
+              "WhenOpened": "2025-08-01T08:11:40.332Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Calc.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\Calc.cs",
+              "RelativeDocumentMoniker": "Calc.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\Calc.cs",
+              "RelativeToolTip": "Calc.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAD4v3kAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:34:38.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calc.cs [Design]",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\Calc.cs",
+              "RelativeDocumentMoniker": "Calc.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\Calc.cs [Design]",
+              "RelativeToolTip": "Calc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:33:11.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:48:40.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:55:51.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T07:15:09.903Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-07-25T07:15:09.903Z"
             }
           ]
         }

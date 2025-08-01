@@ -43,8 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Consructor_overloading.cs" />
     <Compile Include="inc.cs" />
     <Compile Include="method_calc.cs" />
+    <Compile Include="method_overloading.cs" />
     <Compile Include="out_var.cs" />
     <Compile Include="P1.cs" />
     <Compile Include="P2.cs" />

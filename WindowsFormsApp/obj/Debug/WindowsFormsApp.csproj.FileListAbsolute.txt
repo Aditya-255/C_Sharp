@@ -9,3 +9,4 @@ E:\.NET FILE\C_sharp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
 E:\.NET FILE\C_sharp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
 E:\.NET FILE\C_sharp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
 E:\.NET FILE\C_sharp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe.config
+E:\.NET FILE\C_sharp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Calc.resources

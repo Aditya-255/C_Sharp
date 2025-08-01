@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "E:\\.NET FILE\\C_sharp\\Csharp_BD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C95E5E7A-9620-4643-9529-5A5C324A8ABE}|CSharp_BD.csproj|e:\\.net file\\c_sharp\\csharp_bd\\maxarr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95E5E7A-9620-4643-9529-5A5C324A8ABE}|CSharp_BD.csproj|solutionrelative:maxarr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95E5E7A-9620-4643-9529-5A5C324A8ABE}|CSharp_BD.csproj|e:\\.net file\\c_sharp\\csharp_bd\\leetcode_ex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95E5E7A-9620-4643-9529-5A5C324A8ABE}|CSharp_BD.csproj|solutionrelative:leetcode_ex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95E5E7A-9620-4643-9529-5A5C324A8ABE}|CSharp_BD.csproj|e:\\.net file\\c_sharp\\csharp_bd\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95E5E7A-9620-4643-9529-5A5C324A8ABE}|CSharp_BD.csproj|solutionrelative:array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C95E5E7A-9620-4643-9529-5A5C324A8ABE}|CSharp_BD.csproj|e:\\.net file\\c_sharp\\csharp_bd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C95E5E7A-9620-4643-9529-5A5C324A8ABE}|CSharp_BD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +34,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "leetcode_ex.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Csharp_BD\\leetcode_ex.cs",
+              "RelativeDocumentMoniker": "leetcode_ex.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Csharp_BD\\leetcode_ex.cs",
+              "RelativeToolTip": "leetcode_ex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T08:00:19.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "maxarr.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Csharp_BD\\maxarr.cs",
+              "RelativeDocumentMoniker": "maxarr.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Csharp_BD\\maxarr.cs",
+              "RelativeToolTip": "maxarr.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T07:53:01.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "array.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Csharp_BD\\array.cs",
+              "RelativeDocumentMoniker": "array.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\Csharp_BD\\array.cs",
+              "RelativeToolTip": "array.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T07:28:34.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\Csharp_BD\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\.NET FILE\\C_sharp\\Csharp_BD\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-02T05:00:58.228Z",
               "EditorCaption": ""
