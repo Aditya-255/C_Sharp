@@ -47,10 +47,14 @@
     <Compile Include="array_ex.cs" />
     <Compile Include="Array.cs" />
     <Compile Include="Command_line.cs" />
+    <Compile Include="Command_line_cons.cs" />
+    <Compile Include="Constructor.cs" />
+    <Compile Include="Cons_Problem.cs" />
     <Compile Include="For_While_Loop.cs" />
     <Compile Include="jagged_arr.cs" />
     <Compile Include="max_ele_in_array.cs" />
     <Compile Include="Oop.cs" />
+    <Compile Include="Para_Constructor.cs" />
     <Compile Include="Sorted_array.cs" />
     <Compile Include="two_dim_arr.cs" />
     <Compile Include="variable_and_simple_cs.cs" />
