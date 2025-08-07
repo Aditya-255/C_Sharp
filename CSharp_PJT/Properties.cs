@@ -9,7 +9,9 @@ namespace CSharp_PJT
 {
     class Student
     {
+
         private string name;
+        //using methods
         public string getname()
         {
             return name;
@@ -18,6 +20,8 @@ namespace CSharp_PJT
         {
             this.name=fname;
         }
+        //using properties
+        //properties is use to access peivate members
         public String Name
         {
             get { return name; }

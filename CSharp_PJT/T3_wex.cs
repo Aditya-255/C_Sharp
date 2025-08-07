@@ -20,13 +20,6 @@ namespace CSharp_PJT
             get{ return name;}
             set { name = value; }
         }
-        Student3()
-        {
-
-
-        }
-
-
     }
     internal class T3_wex
     {
