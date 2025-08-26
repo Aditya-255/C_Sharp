@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "E:\\.NET FILE\\C_sharp\\CSharp_NVB\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{78A19FC2-D05C-4589-B344-9035FFEAF973}|CSharp_NVB.csproj|e:\\.net file\\c_sharp\\csharp_nvb\\que_ex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A19FC2-D05C-4589-B344-9035FFEAF973}|CSharp_NVB.csproj|solutionrelative:que_ex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A19FC2-D05C-4589-B344-9035FFEAF973}|CSharp_NVB.csproj|e:\\.net file\\c_sharp\\csharp_nvb\\static_keyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A19FC2-D05C-4589-B344-9035FFEAF973}|CSharp_NVB.csproj|solutionrelative:static_keyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A19FC2-D05C-4589-B344-9035FFEAF973}|CSharp_NVB.csproj|e:\\.net file\\c_sharp\\csharp_nvb\\properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A19FC2-D05C-4589-B344-9035FFEAF973}|CSharp_NVB.csproj|solutionrelative:properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{78A19FC2-D05C-4589-B344-9035FFEAF973}|CSharp_NVB.csproj|e:\\.net file\\c_sharp\\csharp_nvb\\command_line_cons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78A19FC2-D05C-4589-B344-9035FFEAF973}|CSharp_NVB.csproj|solutionrelative:command_line_cons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,19 +23,19 @@
       "RelativeMoniker": "D:0:0:{78A19FC2-D05C-4589-B344-9035FFEAF973}|CSharp_NVB.csproj|solutionrelative:command_line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78A19FC2-D05C-4589-B344-9035FFEAF973}|CSharp_NVB.csproj|e:\\.net file\\c_sharp\\csharp_nvb\\constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78A19FC2-D05C-4589-B344-9035FFEAF973}|CSharp_NVB.csproj|E:\\.NET FILE\\C_sharp\\CSharp_NVB\\constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78A19FC2-D05C-4589-B344-9035FFEAF973}|CSharp_NVB.csproj|solutionrelative:constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78A19FC2-D05C-4589-B344-9035FFEAF973}|CSharp_NVB.csproj|e:\\.net file\\c_sharp\\csharp_nvb\\cons_problem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78A19FC2-D05C-4589-B344-9035FFEAF973}|CSharp_NVB.csproj|E:\\.NET FILE\\C_sharp\\CSharp_NVB\\cons_problem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78A19FC2-D05C-4589-B344-9035FFEAF973}|CSharp_NVB.csproj|solutionrelative:cons_problem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78A19FC2-D05C-4589-B344-9035FFEAF973}|CSharp_NVB.csproj|e:\\.net file\\c_sharp\\csharp_nvb\\para_constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78A19FC2-D05C-4589-B344-9035FFEAF973}|CSharp_NVB.csproj|E:\\.NET FILE\\C_sharp\\CSharp_NVB\\para_constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78A19FC2-D05C-4589-B344-9035FFEAF973}|CSharp_NVB.csproj|solutionrelative:para_constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78A19FC2-D05C-4589-B344-9035FFEAF973}|CSharp_NVB.csproj|e:\\.net file\\c_sharp\\csharp_nvb\\oop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78A19FC2-D05C-4589-B344-9035FFEAF973}|CSharp_NVB.csproj|E:\\.NET FILE\\C_sharp\\CSharp_NVB\\oop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78A19FC2-D05C-4589-B344-9035FFEAF973}|CSharp_NVB.csproj|solutionrelative:oop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -83,19 +95,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Que_ex.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\CSharp_NVB\\Que_ex.cs",
+              "RelativeDocumentMoniker": "Que_ex.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\CSharp_NVB\\Que_ex.cs",
+              "RelativeToolTip": "Que_ex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T05:54:29.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Static_keyword.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\CSharp_NVB\\Static_keyword.cs",
+              "RelativeDocumentMoniker": "Static_keyword.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\CSharp_NVB\\Static_keyword.cs",
+              "RelativeToolTip": "Static_keyword.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T05:16:05.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Properties.cs",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\CSharp_NVB\\Properties.cs",
+              "RelativeDocumentMoniker": "Properties.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\CSharp_NVB\\Properties.cs",
+              "RelativeToolTip": "Properties.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAkwHEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T04:43:35.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Command_line_cons.cs",
               "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\CSharp_NVB\\Command_line_cons.cs",
               "RelativeDocumentMoniker": "Command_line_cons.cs",
               "ToolTip": "E:\\.NET FILE\\C_sharp\\CSharp_NVB\\Command_line_cons.cs",
               "RelativeToolTip": "Command_line_cons.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T05:54:18.04Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Cons_Problem.cs",
               "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\CSharp_NVB\\Cons_Problem.cs",
               "RelativeDocumentMoniker": "Cons_Problem.cs",
@@ -103,12 +154,11 @@
               "RelativeToolTip": "Cons_Problem.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T05:35:30.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T05:35:30.886Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Para_Constructor.cs",
               "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\CSharp_NVB\\Para_Constructor.cs",
               "RelativeDocumentMoniker": "Para_Constructor.cs",
@@ -116,12 +166,11 @@
               "RelativeToolTip": "Para_Constructor.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAswDMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T05:13:34.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T05:13:34.762Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Constructor.cs",
               "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\CSharp_NVB\\Constructor.cs",
               "RelativeDocumentMoniker": "Constructor.cs",
@@ -129,12 +178,11 @@
               "RelativeToolTip": "Constructor.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T04:39:25.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T04:39:25.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Oop.cs",
               "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\CSharp_NVB\\Oop.cs",
               "RelativeDocumentMoniker": "Oop.cs",
@@ -142,12 +190,11 @@
               "RelativeToolTip": "Oop.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAIwCEAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T05:02:21.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T05:02:21.795Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Command_line.cs",
               "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\CSharp_NVB\\Command_line.cs",
               "RelativeDocumentMoniker": "Command_line.cs",
@@ -155,12 +202,11 @@
               "RelativeToolTip": "Command_line.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T06:05:59.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T06:05:59.458Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "jagged_arr.cs",
               "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\CSharp_NVB\\jagged_arr.cs",
               "RelativeDocumentMoniker": "jagged_arr.cs",
@@ -172,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "two_dim_arr.cs",
               "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\CSharp_NVB\\two_dim_arr.cs",
               "RelativeDocumentMoniker": "two_dim_arr.cs",
@@ -184,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "max_ele_in_array.cs",
               "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\CSharp_NVB\\max_ele_in_array.cs",
               "RelativeDocumentMoniker": "max_ele_in_array.cs",
@@ -196,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Sorted_array.cs",
               "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\CSharp_NVB\\Sorted_array.cs",
               "RelativeDocumentMoniker": "Sorted_array.cs",
@@ -208,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "array_ex.cs",
               "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\CSharp_NVB\\array_ex.cs",
               "RelativeDocumentMoniker": "array_ex.cs",
@@ -220,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Array.cs",
               "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\CSharp_NVB\\Array.cs",
               "RelativeDocumentMoniker": "Array.cs",
@@ -232,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "variable_and_simple_cs.cs",
               "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\CSharp_NVB\\variable_and_simple_cs.cs",
               "RelativeDocumentMoniker": "variable_and_simple_cs.cs",
@@ -244,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "add_of_2_arr.cs",
               "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\CSharp_NVB\\add_of_2_arr.cs",
               "RelativeDocumentMoniker": "add_of_2_arr.cs",
@@ -256,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "String_methods.cs",
               "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\CSharp_NVB\\String_methods.cs",
               "RelativeDocumentMoniker": "String_methods.cs",
@@ -268,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "For_While_Loop.cs",
               "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\CSharp_NVB\\For_While_Loop.cs",
               "RelativeDocumentMoniker": "For_While_Loop.cs",

@@ -55,7 +55,10 @@
     <Compile Include="max_ele_in_array.cs" />
     <Compile Include="Oop.cs" />
     <Compile Include="Para_Constructor.cs" />
+    <Compile Include="Properties.cs" />
+    <Compile Include="Que_ex.cs" />
     <Compile Include="Sorted_array.cs" />
+    <Compile Include="Static_keyword.cs" />
     <Compile Include="two_dim_arr.cs" />
     <Compile Include="variable_and_simple_cs.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
