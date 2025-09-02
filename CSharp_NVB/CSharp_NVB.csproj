@@ -50,9 +50,11 @@
     <Compile Include="Command_line_cons.cs" />
     <Compile Include="Constructor.cs" />
     <Compile Include="Cons_Problem.cs" />
+    <Compile Include="Ex.cs" />
     <Compile Include="For_While_Loop.cs" />
     <Compile Include="jagged_arr.cs" />
     <Compile Include="max_ele_in_array.cs" />
+    <Compile Include="newQuw.cs" />
     <Compile Include="Oop.cs" />
     <Compile Include="Para_Constructor.cs" />
     <Compile Include="Properties.cs" />
