@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7800F90B-26DC-404A-BD6A-8970FD8C745F}|WindowsFormsApp.csproj|E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7800F90B-26DC-404A-BD6A-8970FD8C745F}|WindowsFormsApp.csproj|e:\\.net file\\c_sharp\\windowsformsapp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7800F90B-26DC-404A-BD6A-8970FD8C745F}|WindowsFormsApp.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7800F90B-26DC-404A-BD6A-8970FD8C745F}|WindowsFormsApp.csproj|e:\\.net file\\c_sharp\\windowsformsapp\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7800F90B-26DC-404A-BD6A-8970FD8C745F}|WindowsFormsApp.csproj|solutionrelative:registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7800F90B-26DC-404A-BD6A-8970FD8C745F}|WindowsFormsApp.csproj|e:\\.net file\\c_sharp\\windowsformsapp\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7800F90B-26DC-404A-BD6A-8970FD8C745F}|WindowsFormsApp.csproj|E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7800F90B-26DC-404A-BD6A-8970FD8C745F}|WindowsFormsApp.csproj|solutionrelative:registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -51,31 +55,42 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\Form3.cs [Design]",
+              "RelativeToolTip": "Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T06:07:56.382Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "registration.cs",
               "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\registration.cs",
               "RelativeDocumentMoniker": "registration.cs",
               "ToolTip": "E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\registration.cs",
               "RelativeToolTip": "registration.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAA4wCwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-08T07:11:03.874Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "registration.cs [Design]",
               "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\registration.cs",
               "RelativeDocumentMoniker": "registration.cs",
               "ToolTip": "E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\registration.cs [Design]",
               "RelativeToolTip": "registration.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T07:10:09.457Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-08-08T07:10:09.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Calc.Designer.cs",
               "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\Calc.Designer.cs",
               "RelativeDocumentMoniker": "Calc.Designer.cs",
@@ -88,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Calc.cs",
               "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\Calc.cs",
               "RelativeDocumentMoniker": "Calc.cs",
@@ -101,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Calc.cs [Design]",
               "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\Calc.cs",
               "RelativeDocumentMoniker": "Calc.cs",
@@ -113,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Form1.cs",
               "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -126,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
@@ -139,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "E:\\.NET FILE\\C_sharp\\WindowsFormsApp\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
