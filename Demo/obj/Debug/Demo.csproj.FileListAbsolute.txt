@@ -1,0 +1,11 @@
+E:\.NET FILE\C_sharp\Demo\bin\Debug\Demo.exe.config
+E:\.NET FILE\C_sharp\Demo\bin\Debug\Demo.exe
+E:\.NET FILE\C_sharp\Demo\bin\Debug\Demo.pdb
+E:\.NET FILE\C_sharp\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+E:\.NET FILE\C_sharp\Demo\obj\Debug\Demo.Properties.Resources.resources
+E:\.NET FILE\C_sharp\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+E:\.NET FILE\C_sharp\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+E:\.NET FILE\C_sharp\Demo\obj\Debug\Demo.exe
+E:\.NET FILE\C_sharp\Demo\obj\Debug\Demo.pdb
+E:\.NET FILE\C_sharp\Demo\obj\Debug\Demo.exe.config
+E:\.NET FILE\C_sharp\Demo\obj\Debug\Demo.Form2.resources

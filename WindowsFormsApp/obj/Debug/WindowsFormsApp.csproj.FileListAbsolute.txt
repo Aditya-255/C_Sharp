@@ -12,3 +12,8 @@ E:\.NET FILE\C_sharp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe.config
 E:\.NET FILE\C_sharp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Calc.resources
 E:\.NET FILE\C_sharp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form2.resources
 E:\.NET FILE\C_sharp\WindowsFormsApp\obj\Debug\WindowsFormsApp.registration.resources
+E:\.NET FILE\C_sharp\WindowsFormsApp\bin\Debug\ex.mdf
+E:\.NET FILE\C_sharp\WindowsFormsApp\bin\Debug\ex_log.ldf
+E:\.NET FILE\C_sharp\WindowsFormsApp\bin\Debug\register_Database1.mdf
+E:\.NET FILE\C_sharp\WindowsFormsApp\bin\Debug\register_Database1_log.ldf
+E:\.NET FILE\C_sharp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form3.resources
