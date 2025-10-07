@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abs.cs" />
     <Compile Include="add_of_2_arr.cs" />
     <Compile Include="array_ex.cs" />
     <Compile Include="Array.cs" />
