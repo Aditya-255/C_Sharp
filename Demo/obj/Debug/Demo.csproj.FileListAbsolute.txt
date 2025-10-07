@@ -9,3 +9,4 @@ E:\.NET FILE\C_sharp\Demo\obj\Debug\Demo.exe
 E:\.NET FILE\C_sharp\Demo\obj\Debug\Demo.pdb
 E:\.NET FILE\C_sharp\Demo\obj\Debug\Demo.exe.config
 E:\.NET FILE\C_sharp\Demo\obj\Debug\Demo.Form2.resources
+E:\.NET FILE\C_sharp\Demo\obj\Debug\Demo.Form3.resources
